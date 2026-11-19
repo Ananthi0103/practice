@@ -1,5 +1,6 @@
-import java.util.*;
 package test;
+import java.util.*;
+
 
 public class Demo1 {
 
