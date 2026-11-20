@@ -6,6 +6,9 @@ public class Demo2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Read data from excel");
+		
+		
+		System.out.println("Read data for testing");
 	}
 	}
 
