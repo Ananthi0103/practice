@@ -1,6 +1,6 @@
+
 package test;
 import java.util.*;
-
 
 public class Demo1 {
 
@@ -9,3 +9,4 @@ public class Demo1 {
 		System.out.println("DEMO");
 	}
 }
+ 
