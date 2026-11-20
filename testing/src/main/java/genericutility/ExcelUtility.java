@@ -7,7 +7,6 @@ public class ExcelUtility {
 		
 		System.out.println("read data from Automation test engineer2 Excel");
 		System.out.println("Read data from excel");
-		
 		System.out.println("Priyanka change Excel utility");
 	}
 

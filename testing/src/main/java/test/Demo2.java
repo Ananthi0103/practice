@@ -7,7 +7,7 @@ public class Demo2 {
 
 		System.out.println("Read data from excel");
 		
-		
+		System.out.println();
 		System.out.println("Read data for testing");
 	}
 	}
